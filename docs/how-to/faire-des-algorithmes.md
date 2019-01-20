@@ -9,6 +9,7 @@ Passons les operations mathematiques habituelles et les détails techniques, en 
 
 
 D'après [wikipédia](https://en.wikipedia.org/wiki/Data_type), ces types sont:
+
 - les **nombres entiers**
 - les **booléens**
 - les **caractères**
@@ -28,6 +29,7 @@ Certains langages permettent aussi de considérer des **fonctions** comme un typ
 
 
 Une variable qui combine plusieurs données est appelé une variable de type composée:
+
 - le **tableau** qui contient un nombre spécifique de données d'un type particulier par exemple
 - les **tuples** qui contiennent typiquement une séquence de données de type arbitraire, pouvant être nommées
 - les **unions** qui sont des tuples pouvant déterminer le type de données pouvant y être stockées
@@ -45,6 +47,7 @@ Ces types de données sont appelés abstraits car leur type ne spécifie aucune 
 Évidemment, savoir les implémenter est important mais pas nécessaire pour s'en servir, je vous recommande d'utiliser les implementations standard des langages que vous utilisez, qui sont déjà optimisés au maximum et prêts à l'emploi.
 
 Ces types de données sont très importants à maîtriser:
+
 - La **liste** (List) permet de créer des tableaux de taille inconnue, autrement dit des **vecteurs**
 - Les **ensembles** (Set) permettent de créer **des ensembles de valeurs uniques**
 - Les **sacs** (Multi-Set, Bag) permettent de créer des ensembles dans lesquels **les objets sont uniques, mais où deux objets équivalents sont tous deux stockés**
