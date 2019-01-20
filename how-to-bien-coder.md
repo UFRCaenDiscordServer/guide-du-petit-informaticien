@@ -48,8 +48,8 @@ Cela nécessite d'instaurer quelques règles dites, de *coding style*.
 
 ## Mais au fond, quelle est la différence entre le \*bon\* et le \*mauvais\* code?
 
-La différence, c'est que le mauvais code, on essaie de le lire, y fait voir tout rouge, et il tourne quoi
-Et alors, que le bon code, on essaie de le lire, y fait voir tout rouge, et il tourne... mais on comprends ce qu'il veut dire.
+La différence, c'est que le mauvais code, on essaie de le lire, y fait voir tout rouge, et il tourne quoi.
+Alors que le bon code, on essaie de le lire, y fait voir tout rouge, et il tourne... mais on comprends ce qu'il veut dire.
 
 Il existe de nombreuses coding styles différentes, certaines organisations, et écoles ont même leurs propres règles de coding style.   
 Mais tous ces ensembles de règles ont comme point commun la différenciation des éléments du code pour faciliter leur compréhension.
