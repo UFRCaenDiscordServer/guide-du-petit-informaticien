@@ -1,12 +1,11 @@
-# Le Coding Style
+# Bien coder
 
-Le coding style, c'est important, et pourtant on ne vous le dis jamais à la fac par flemme de se mettre d'accord sur la bonne à utiliser. 
+Le coding style, c'est important, et pourtant on ne vous le dis jamais à la fac par flemme de se mettre d'accord sur les bonnes règles à utiliser.
 Qu'es-ce que c'est que ce truc exactement, et pourquoi es-ce si important?
 
 Un exemple en dis plus que des mots:
 
 ```python
-
 class Symbole(object): 
     def __init__(self, arite, face): 
         self.arite = arite 
