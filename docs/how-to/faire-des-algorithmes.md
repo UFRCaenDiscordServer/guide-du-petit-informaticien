@@ -99,7 +99,7 @@ Exemple:
 ```
 # 2. se dire à voix haute comment vous raisonneriez si vous étiez à la place de la machine et l'écrire.
 ```
-> - À chaque tour de jeu, je me peux me déplacer si j'ai une case de libre.
+> - À chaque tour de jeu, je peux me déplacer si j'ai une case adjacente de libre.
 
 ```
 # 3. déterminer les données qui peuvent se déterminer à partir de logique et les mettre de coté
