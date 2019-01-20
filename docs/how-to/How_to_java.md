@@ -1,10 +1,17 @@
 # How to Java
 # Table des matières
-- [Les bases d'une classe](#les-bases)
-	- [Naming et structure de fichiers](#naming-et-structure)
-	- [Les modificateurs d'accès](#les-modificateurs)
-	- [Les méthodes](#méthodes)
-	- [Les variables](#Variables)
+
+ - [How to java](#how-to-java)
+	 1. [Les bases d'une classe](#les-bases)
+		- [Naming et structure de fichiers](#naming-et-structure)
+		- [Le fichier main](#le-fichier-main)
+		- [Les modificateurs d'accès](#les-modificateurs)
+		- [Les méthodes](#méthodes)
+		- [Les variables](#variables)
+		- [Les tableaux](#les-tableaux)
+	2. [Aller plus loin](#aller-plus-loin)
+		- [Notion de classe abstraite et héritage](#les-class-abstraites-et-l-héritage). 
+		- [Comment utiliser une classe](#la-manipulation-de-class)
 ## Les bases
 ### Naming et structure
 ```java
@@ -72,4 +79,20 @@ float[] floatArray = new float[size];
 
 // etc..
 ```
+Et une List se défini  de la même façon, sans les crochets car List étant une class, elle se construit comme une class, cependant il ne faut pas oublié d'importer la class.
+```java
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
+List<Integer> uneList = new ArrayList<>()
+```
+## Aller plus loin
+### Les class abstraites et l héritage
+```java
+// complete stuff later ...
+```
+### La manipulation de class
+```java
+// complete stuff later ...
+```
