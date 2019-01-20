@@ -7,7 +7,7 @@ Les sujets sont regroupés en .md dans ce repo et vous n avez qu'à cliquer dess
 
 Pour une consultation locale (sur votre PC), n'hésitez pas à utiliser votre lecteur de fichier texte favori, ou de convertir les .md en pdf avec pandoc pour une lecture plus agréable!
 
-## pour convertir les .md en .pdf
+## Pour convertir les .md en .pdf
 
 1. installez pandoc
 
