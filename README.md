@@ -20,3 +20,8 @@ Pour une consultation locale (sur votre PC), n'hésitez pas à utiliser votre le
 3. ???
 
 4. Bonne lecture!
+
+
+## Il manque quelque chose/Qu'en est il de X?
+
+Pour toute demande, n'hésitez pas à ajouter un rapport de problème sur le repo pour que l'on puisse ajouter ce dont vous avez besoin et que nous aurions oublié!
