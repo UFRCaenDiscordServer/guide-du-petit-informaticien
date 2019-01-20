@@ -56,7 +56,7 @@ Mais tous ces ensembles de règles ont comme point commun la différenciation de
 
 Après tout en informatique, le code source est lu bien plus souvent qu'il n'est écrit, il est donc important de le rendre clair.
 
-Prenons en exemple [ https://www.python.org/dev/peps/pep-0008/ ]( le coding style officiel utilisé pour python ):
+Prenons en exemple [le coding style officiel utilisé pour python](https://www.python.org/dev/peps/pep-0008/):
 
 > Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability. Python packages should also have short, all-lowercase names, although the use of underscores is discouraged.
 
