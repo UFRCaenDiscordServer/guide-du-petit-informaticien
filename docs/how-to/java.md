@@ -1,4 +1,4 @@
-# How to Java
+# Java
 # Table des matières
 
  - [How to java](#how-to-java)
