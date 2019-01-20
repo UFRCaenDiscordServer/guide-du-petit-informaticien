@@ -58,27 +58,27 @@ Après tout en informatique, le code source est lu bien plus souvent qu'il n'est
 
 Prenons en exemple [le coding style officiel utilisé pour python](https://www.python.org/dev/peps/pep-0008/):
 
-> Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability. Python packages should also have short, all-lowercase names, although the use of underscores is discouraged.
+> - Modules should have short, all-lowercase names. Underscores can be used in the module name if it improves readability. Python packages should also have short, all-lowercase names, although the use of underscores is discouraged.
 
 Les modules en python ( fichiers, dossiers de fichiers python ) doivent être nommés en toutes minuscules, avec usage d'underscores s'ils aident à la compréhension.
 
-> Class names should normally use the CapWords convention.
+> - Class names should normally use the CapWords convention.
 
 Les noms de classes doivent normalement utiliser la convention CapWords (autrement appelé CamelCase).
 
-> Because exceptions should be classes, the class naming convention applies here. However, you should use the suffix "Error" on your exception names (if the exception actually is an error). 
+> - Because exceptions should be classes, the class naming convention applies here. However, you should use the suffix "Error" on your exception names (if the exception actually is an error).
 
 Les noms d'erreurs doivent utiliser la même convention d'écriture que les classes, car elles en sont aussi, mais doivent aussi contenir le suffixe "Error"si elles représentent une erreur.
 
-> Function names should be lowercase, with words separated by underscores as necessary to improve readability.
+> - Function names should be lowercase, with words separated by underscores as necessary to improve readability.
 
 Les noms de fonctions doivent être en minuscules, avec les mots séparés par des underscore pour améliorer leur lisibilité
 
-> Variable names follow the same convention as function names.
+> - Variable names follow the same convention as function names.
 
 Les noms de variable suivent la même convention que les noms de fonction (ce qui est logique en python car les fonctions y sont juste des variables)
 
-> Constants are usually defined on a module level and written in all capital letters with underscores separating words.
+> - Constants are usually defined on a module level and written in all capital letters with underscores separating words.
 
 Les noms de capitales sont en général définies au niveau du module (fichier python) et nommés en toutes capitales avec des underscores séparant les mots.
 
