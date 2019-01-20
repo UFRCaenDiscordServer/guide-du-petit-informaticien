@@ -12,3 +12,4 @@ Là où les cours ne sont pas forcément clairs ou même présents, nous essayon
 
 À @Thiladon pour l'idée de départ qui à fait naître ce receuil, et à @Helldragger pour la mise en place de ce site via ReadTheDocs.
 
+Au [serveur discord openSauce](https://discord.gg/Sv62XEs) dont l'objectif de réunir et laisser les étudiants communiquer librement peu importe les générations inspire le concept de ce projet.
