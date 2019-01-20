@@ -7,8 +7,12 @@ Le choix d'un langage n'est pas définitif pour un projet, il existe de nombreus
 Avant de vous dire de partir sur un langage potentiellement overkill, plus difficile à dévellopper etc juste \*au cas où\*, gardez à l'esprit qu'il est plus important d'avoir un prototype fonctionnel et d'y aller couche par couche plutôt que de se taper la tête sur les murs à cause d'un langage complexe pour tenter la moindre solution.
 
 Ce prototype pourras toujours être réimplémenté progressivement grâce aux divers transcompileurs et interfaces disponibles si besoin en temps voulu.
+[Voici par exemples des outils de transcompilation python -> C/Java/.NET/C++/...](https://fr.wikipedia.org/wiki/Python_(langage)#Impl%C3%A9mentations_du_langage)
+
 
 Il est aussi important de préciser que tout est possible avec la plupart de ces langages, ces listes sont juste là pour indiquer les plus utiles, fournis et efficaces pour leur utilisation.
+
+
 
 ## Prototyper rapidement
 
@@ -31,22 +35,27 @@ Il est aussi important de préciser que tout est possible avec la plupart de ces
 - C++
 - ASM
 
+## Favoriser les performances..
+
+- ..hautement parallèles -> CUDA
+- ..hautement séquentielles -> C/C++/ASM
+
 ## Créer des documents
 
 - LaTeX
 - Markdown
 - ReStructured Text
 
-## Faire un site web
+## Créer un site web
 
 [beaucoup de possibilités pour tous les langages](https://en.wikipedia.org/wiki/List_of_content_management_systems)
 
-## Faire un service web/android
+## Créer un service web/android
 
 - Kotlin
 - Java
 
-## Faire un serveur web
+## Créer un serveur web
 
 - Php
 - Python

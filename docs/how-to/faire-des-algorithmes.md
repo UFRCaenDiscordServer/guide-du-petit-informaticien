@@ -99,27 +99,27 @@ Exemple:
 ```
 # 2. se dire à voix haute comment vous raisonneriez si vous étiez à la place de la machine et l'écrire.
 ```
-> - À chaque tour de jeu, je peux me déplacer si j'ai une case adjacente de libre.
+> "À chaque tour de jeu, je peux me déplacer si j'ai une case adjacente de libre."
 
 ```
 # 3. déterminer les données qui peuvent se déterminer à partir de logique et les mettre de coté
 ```
-> - D'après nos schémas, on peut déterminer si une case est non libre en vérifiant si elle contient un joueur ou un mur.
-De même, on peut déterminer quand redonner de la vie si la case sur laquelle il se déplace contient un boost.
+> "D'après nos schémas, on peut déterminer si une case est non libre en vérifiant si elle contient un joueur ou un mur.
+De même, on peut déterminer quand redonner de la vie si la case sur laquelle il se déplace contient un boost."
 
-> - On garde donc les positions des joueurs, des boosts et des murs de coté pour le moment.
+> "On garde donc les positions des joueurs, des boosts et des murs de coté pour le moment."
 
 ```
 # 4. déterminer les données qui symbolisent un manque d'interaction entre vos données et retirez les.
 ```
-> - D'après nos schémas, seules les cases vides n'ont aucun effet sur le jeu. On les retire donc de nos données.
+> "D'après nos schémas, seules les cases vides n'ont aucun effet sur le jeu. On les retire donc de nos données."
 
 ```
 # 5. re-raisonnez à partir des informations restantes et écrivez en francais quelles données sont liées auxquelles et comment
 ```
-> - Le joueur peut bouger sur une case si celle ci n'appartient ni aux coordonnées d'un joueur ni d'un mur.
+> "Le joueur peut bouger sur une case si celle ci n'appartient ni aux coordonnées d'un joueur ni d'un mur."
 
-> - Si celle ci appartient aux coordonnées d'un boost, cela déclenche un regain de vie sur ce joueur.
+> "Si celle ci appartient aux coordonnées d'un boost, cela déclenche un regain de vie sur ce joueur."
 
 Nous avons au final juste besoin de 3 **ensembles** de coordonnées, celles des joueurs, des murs et des boosts, rien de plus, rien de moins.
 
