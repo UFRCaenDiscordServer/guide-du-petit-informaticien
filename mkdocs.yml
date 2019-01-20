@@ -1,1 +1,3 @@
 site_name: Guide du petit informaticien
+theme:
+  name: 'rtd-dropdown'
