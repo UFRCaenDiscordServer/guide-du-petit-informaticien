@@ -19,6 +19,7 @@ Il est aussi important de préciser que tout est possible avec la plupart de ces
 
 - sqlite3 (intégré à python et la plupart des langages)
 - mySQL
+- ROOT (pls don't)
 
 ## Analyser des données en grande quantité
 
