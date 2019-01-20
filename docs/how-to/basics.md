@@ -57,7 +57,7 @@ Bien qu'il soit possible de coder tous ses projets sur wordpad ou sublime text, 
 
 Tous ces outils sont intégrés ensemble de façon personnalisable dans ce que l'on appelle un Integrated Development Environnement (ou IDE pour les intimes)
 
-Il en existe pour la plupart des langages et des utilisations, mais les plus pratiques, fonctionnels (\**cough*\*eclipse\**cough*\*) et gratuits sont ceux de la compagnie JetBrains:
+Il en existe pour la plupart des langages et des utilisations, mais les plus pratiques, fonctionnels (\**cough*\*eclipse\**cough*\*) et gratuits (ceux payants sont gratuits pour les étudiants) sont ceux de la compagnie JetBrains:
 
 - IntelliJ Idea (java, java EE, kotlin, ...)
 - Clion (C, C++, ...)
