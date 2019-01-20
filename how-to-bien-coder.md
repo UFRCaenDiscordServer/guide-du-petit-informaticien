@@ -108,15 +108,16 @@ def main():
     boup_man.reponds_a_la_question(QUESTION)
 ```
 
-# Je n'aime pas cette convention, qu'y a t il d'autre?
+## Je n'aime pas cette convention, qu'y a t il d'autre?
 
 Ce n'est pas grave, il en existe beaucoup d'autres, celle de GNU est particulièrement stricte et propre, à l'image du travail de leur communauté.
 D'autres existent, mais je vous laisse chercher sur google des listes de coding styles, le plus important reste d'être constant dans vos projets.
 Coder pareil dans un fichier c'est bien, mais coder pareil dans tout le projet c'est ce qu'il faut pour permettre de travailler dessus en équipe sans trop de confusion et éviter les bugs inutiles.
 
-# La flemme de tout lire mais j'aimerais améliorer facilement et automatiquement mon code
+## La flemme de tout lire mais j'aimerais améliorer facilement et automatiquement mon code
 
 Garder des noms clairs, et respecter une notation réduit de beaucoup la nécessité de commenter le code. 
 Pour le reste, pvous pouvez faire confiance aux outils d'analyse statique pour vous dire ce qui pue et ce qui devrais être modifié et comment. Conseil perso:
 
  - Utilisez l'extension SonarLint dans vos IDE pour détecter le reste
+
