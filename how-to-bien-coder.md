@@ -104,7 +104,7 @@ class BoupMan():
 
 def main():
   boup_man = BoupMan()
-  for q_i in range(NOMBRE_DE_QUESTIONS+1):
+  for _ in range(NOMBRE_DE_QUESTIONS+1):
     boup_man.reponds_a_la_question(QUESTION)
 ```
 
