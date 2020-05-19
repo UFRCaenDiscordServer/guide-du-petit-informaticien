@@ -1,5 +1,7 @@
 # Qui sommes-nous?
 
+[retour à l'accueil](./)
+
 Nous sommes des étudiants de la Fac d'info de Caen qui avons eu l'envie de fournir un moyen aux motivés et curieux de trouver des réponses à leurs questions.
 
 Là où les cours ne sont pas forcément clairs ou même présents, nous essayons de fournir ici un recueil le plus comprehensif possible de guides et d'explications expliquées par des étudiants, pour des étudiants.
