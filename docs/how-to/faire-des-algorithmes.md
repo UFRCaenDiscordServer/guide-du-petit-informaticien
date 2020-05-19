@@ -1,6 +1,8 @@
 # Faire des algorithmes
-Faire des algorithmes, c'est faire se succeder des manipulations de données, dans le but de sortir d'autres données particulières.
 
+[retour à l'accueil](../)
+
+Faire des algorithmes, c'est faire se succeder des manipulations de données, dans le but de sortir d'autres données particulières.
 
 ## Types de données primitifs
 

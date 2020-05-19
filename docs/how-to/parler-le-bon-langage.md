@@ -1,5 +1,7 @@
 # Parler le bon langage
 
+[retour à l'accueil](../)
+
 ## Avant toutes choses
 
 Le choix d'un langage n'est pas définitif pour un projet, il existe de nombreuses façons d'utiliser plusieurs langages différents dans un projet, voire parfois de les mélanger!

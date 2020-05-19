@@ -1,5 +1,7 @@
 # S'équiper correctement
 
+[retour à l'accueil](../)
+
 Les machines sont complexes et l'informaticien peut intervenir sur tous les aspects de sa machine.
 Que ce soit pour créer un site web, lancer des applications dans un ordre voulu ou modifier le comportement même de son systeme, il est important d'avoir le bon équipement.
 
