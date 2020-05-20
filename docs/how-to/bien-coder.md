@@ -1,5 +1,7 @@
 # Bien coder
 
+[retour à l'accueil](../)
+
 Le coding style, c'est important, et pourtant on ne vous le dis jamais à la fac par flemme de se mettre d'accord sur les bonnes règles à utiliser.
 Qu'es-ce que c'est que ce truc exactement, et pourquoi es-ce si important?
 

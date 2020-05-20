@@ -1,4 +1,7 @@
 # Une alternative au dual-boot: le sous-système Windows pour Linux (WSL)
+
+[retour à l'accueil](../)
+
 Vous avez besoin de garder Windows mais vous en avez assez d'installer des logiciels à la main là où une seule commande sous Linux vous comblerait ? Fini d'installer PHP à l'arrache, Microsoft a (étonnamment ?) pensé à vous !
 
 Le [WSL](https://docs.microsoft.com/fr-fr/windows/wsl/about) est une fonctionnalité de Windows 10 qui permet l'installation de certaines distributions Linux au sein de Windows.
