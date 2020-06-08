@@ -14,6 +14,7 @@ Vous trouverez ici un recueil des ressources nécessaires pour satisfaire votre 
 - [Parler Le bon langage](how-to/parler-le-bon-langage)
 - [Windows SubSystem For Linux](how-to/wsl)
 - [A propos](a-propos)
+- [Annales](annales/index)
 
 
 ## Il manque quelque chose/Qu'en est il de X?
