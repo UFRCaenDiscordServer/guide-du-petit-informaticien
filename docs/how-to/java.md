@@ -15,6 +15,7 @@
 	2. [Aller plus loin](#aller-plus-loin)
 		- [Notion de classe abstraite et héritage](#les-class-abstraites-et-l-héritage). 
 		- [Comment utiliser une classe](#la-manipulation-de-class)
+		
 ## Les bases
 ### Naming et structure
 ```java
