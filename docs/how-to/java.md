@@ -17,7 +17,9 @@
 		- [Comment utiliser une classe](#la-manipulation-de-class)
 		
 ## Les bases
+
 ### Naming et structure
+
 ```java
 package <Nom_du_package>.<sous-dossier>.<etc>; // Convention de naming : comme pour les variables.
 
