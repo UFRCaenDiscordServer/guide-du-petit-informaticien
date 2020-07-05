@@ -1,0 +1,63 @@
+\documentclass[11pt]{article}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{tikz}
+
+\title{Exercices}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\begin{figure}[htpb]
+  \begin{center}
+    \begin{tikzpicture}
+      \node (mairie) at (0,2) {H\^otel de ville};
+      \node (chateau) at (5,2) {Ch\^ateau};
+      \node (gare) at (5,0) {Gare SNCF};
+      \draw[dashed] (mairie) -- node[above] {Rue Saint-Pierre} (chateau);
+      \draw[<->] (gare) -- (chateau);
+    \end{tikzpicture}
+  \end{center}
+  \caption{Plan simplifi\'e de Caen}
+\end{figure}
+
+\begin{figure}[htpb]
+  \begin{center}
+    \begin{tikzpicture}
+      \node (mairie) at (0,2) {H\^otel de ville};
+      \node (chateau) at (7,2) {Le Ch\^ateau};
+      \node (gare) at (8,0) {Gare SNCF};
+      \coordinate (ouest sud chateau) at (6.5,1.75);
+      \coordinate (est sud chateau) at (7.5,1.75);
+      \coordinate (ouest nord gare) at (7.5,0.25);
+      \coordinate (est nord gare) at (8.5,0.25);
+      \draw[dashed] (mairie) -- node[above] {\textit{Rue Saint-Pierre}} (chateau);
+      \draw[->] (ouest sud chateau) -- (ouest nord gare);
+      \draw[->] (est nord gare) -- (est sud chateau);
+    \end{tikzpicture}
+  \end{center}
+  \caption{Plan de Caen pr\'ecis}
+\end{figure}
+
+\begin{figure}[htpb]
+  \begin{center}
+    \begin{tikzpicture}
+      \node[rectangle, draw, color=blue, fill=yellow] (mairie) at (0,2) {H\^otel de ville};
+      \node[rectangle, draw] (chateau) at (7,2) {Le Ch\^ateau};
+      \node[rectangle, draw, color=blue] (gare) at (8,0) {Gare SNCF};
+      \coordinate (ouest sud chateau) at (6.5,1.75);
+      \coordinate (est sud chateau) at (7.5,1.75);
+      \coordinate (ouest nord gare) at (7.5,0.25);
+      \coordinate (est nord gare) at (8.5,0.25);
+      \draw[dashed] (mairie) -- node[above] {\textit{Rue Saint-Pierre}} (chateau);
+      \draw[->] (ouest sud chateau) -- node[left] {\textit{Rue Saint-Jean}} (ouest nord gare);
+      \draw[->] (est nord gare) -- node[right] {\textit{Av. du 6 Juin}} (est sud chateau);
+    \end{tikzpicture}
+  \end{center}
+  \caption{Plan de Caen pr\'ecis et color\'e}
+\end{figure}
+
+\end{document}
